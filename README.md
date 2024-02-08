@@ -9,3 +9,10 @@ Estruturar uma tabela fato usando "Star Schema" para atender eficazmente e minui
 * Media do valor de hospedagem dos hospedes com base em cidade e aeroporto.
 * Descontos governamentais relacionados ao turismo e origem do hospede.
 * Cricação de uma receita
+
+
+## Modelo Estruturado
+![modelo_estruturado](https://github.com/RomuloRangel/Modelagem_Multidimensional/blob/main/Modelo_estruturado.png?raw=true)
+
+## Modelo Star Schema
+![Modelo Star schema](https://github.com/RomuloRangel/Modelagem_Multidimensional/blob/main/Modelo%20multidimensional.png?raw=true)
